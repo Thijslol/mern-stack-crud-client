@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Thijslol/MernStackCrud/static/css/main.628e3091.css",
+    "main.js": "/Thijslol/MernStackCrud/static/js/main.7a34f5c2.js",
+    "static/js/787.a4b45000.chunk.js": "/Thijslol/MernStackCrud/static/js/787.a4b45000.chunk.js",
+    "index.html": "/Thijslol/MernStackCrud/index.html",
+    "main.628e3091.css.map": "/Thijslol/MernStackCrud/static/css/main.628e3091.css.map",
+    "main.7a34f5c2.js.map": "/Thijslol/MernStackCrud/static/js/main.7a34f5c2.js.map",
+    "787.a4b45000.chunk.js.map": "/Thijslol/MernStackCrud/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.7a34f5c2.js"
+  ]
+}
