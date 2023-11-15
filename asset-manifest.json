@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Thijslol/MernStackCrud/static/css/main.628e3091.css",
-    "main.js": "/Thijslol/MernStackCrud/static/js/main.7a34f5c2.js",
-    "static/js/787.a4b45000.chunk.js": "/Thijslol/MernStackCrud/static/js/787.a4b45000.chunk.js",
-    "index.html": "/Thijslol/MernStackCrud/index.html",
-    "main.628e3091.css.map": "/Thijslol/MernStackCrud/static/css/main.628e3091.css.map",
-    "main.7a34f5c2.js.map": "/Thijslol/MernStackCrud/static/js/main.7a34f5c2.js.map",
-    "787.a4b45000.chunk.js.map": "/Thijslol/MernStackCrud/static/js/787.a4b45000.chunk.js.map"
+    "main.css": "/mern-stack-crud-client/static/css/main.f96f07a4.css",
+    "main.js": "/mern-stack-crud-client/static/js/main.04d59607.js",
+    "static/js/787.eef52cdd.chunk.js": "/mern-stack-crud-client/static/js/787.eef52cdd.chunk.js",
+    "index.html": "/mern-stack-crud-client/index.html",
+    "main.f96f07a4.css.map": "/mern-stack-crud-client/static/css/main.f96f07a4.css.map",
+    "main.04d59607.js.map": "/mern-stack-crud-client/static/js/main.04d59607.js.map",
+    "787.eef52cdd.chunk.js.map": "/mern-stack-crud-client/static/js/787.eef52cdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.628e3091.css",
-    "static/js/main.7a34f5c2.js"
+    "static/css/main.f96f07a4.css",
+    "static/js/main.04d59607.js"
   ]
 }
